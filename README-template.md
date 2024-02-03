@@ -20,6 +20,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Overview
 
+I learnt how to build this social links profile cards using 
+
 ### The challenge
 
 Users should be able to:
