@@ -46,17 +46,15 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-
+I first created a wireframe of laying out the semantic HTML5 by sketching it on an A4 paper highlighting the div and semantic markup to be used to place it correctly on the webpage then proceeded with the styling using CSS3 custom properties using Flexbox for the layout.
 ### Built with
+VS Code Editor
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
